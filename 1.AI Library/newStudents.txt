@@ -1,0 +1,9 @@
+     Student           Name     Midterm       Final     Average    Grade
+  -------------------------------------------------------------------------  
+    20180021  Jeong Yongkyo        93          95        94.0         A
+    20180002      Lee Jieun        92          89        90.5         A
+    20180009   Lee Yeonghee        81          84        82.5         B
+    20180001   Hong Gildong        84          73        78.5         C
+    20180006    Lee Sangsun        77          66        71.5         C
+    20180007    Kim Cheolsu        75          62        68.5         D
+
